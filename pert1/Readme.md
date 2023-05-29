@@ -1,0 +1,3 @@
+| Sesi      | Kemampuan Akhir | Materi Pembelajaran     | Bentuk Pembelajaran | Sumber Pembelajaran | Indikator Penilaian |
+| :---:       |    :----:   |    :----:   |    :----:   |    :----:   |    :----:   |
+| 1   | ada di file README Setiap Pertemuan | ada di folder slide setiap pertemuan | online and praktikum | <li>Dynamic Enterprise Architecture How to Make It Work, Roel Wagter, Martin van den Berg, Joost Luijpers, Marlies van Steenbergen, 2005 </li><br> | <li>Tugas 30%</li><br><li>UTS 30%</li><br><li>UAS 40%</li> |
