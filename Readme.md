@@ -1,26 +1,34 @@
 # **Rencana Pembelajaran Semester**
+<br><br>
+
 ## **Enterprise Architecture**
-- sebuah evaluasi dan menggambarkan aspek manusia, proses, dan sumber daya dalam suatu organisasi.
+- Sebuah evaluasi dan menggambarkan aspek manusia, proses, dan sumber daya dalam suatu organisasi.
+<br><br>
+
 ## **Capaian Pembelajaran**
 - Mahasiswa mampu merancang, menerapkan, dan mengelola solusi teknologi informasi di sebuah perusahaan/enterprise/pemerintahan dengan berfokus pada proses bisnis, data dan informasi, aplikasi, infrastruktur serta audit TIK  menggunakan framework enterprise arsitektur yang mendukung bisnis
 perusahaan/enterprise/pemerintahan
+<br><br>
 
 ## **Buku/Ebook/Acuan**
 - Lankhorst, Mark. 2013. Enterprise architecture at work: Modelling, communication
 and analysis, 3rd Edition. Berlin: Springer-Verlag.
 - Desfray, Philippe dan Gilbert Raymond. 2014. Modelling enterprise architecture with
 TOGAF: A practical guide using UML and BPMN. Waltham: Morgan Kauffman
-- Government EA Sebagai Platform Utama dalam sistem pemerintahan Dr. Gerry Firmansyah 2022, Slide Guest Lecture 28 Mei 2022
-- 
+- Government EA Sebagai Platform Utama dalam sistem pemerintahan Dr. Gerry Firmansyah 2022
+- Peraturan Presiden (PERPRES) tentang Sistem Pemerintahan Berbasis Elektronik (Perpres Nomor 95 Tahun 2018)
+<br><br>
 
 ## **Spesifikasi Laptop**
 - Windows 10, MacOS atau Linux
 - RAM Minimal 8 GB
 - Akses Internet
+<br><br>
 
 ## **Tools yang dibutuhkan**
 - EA Tools
 - Archimate
+<br><br>
 
 ## **Capaian Pembelajaran**
 - Mahasiswa mampu menjelaskan konsep dasar arsitektur enterprise meliputi
@@ -38,6 +46,7 @@ berbasis framework TOGAF TOGAF, FEAF dan SPBE.
 a. Mampu berkomunikasi lisan dengan baik
 b. Mampu bekerja sama dalam kelompok
 c. Mampu mengelola / leadership dalam kelompok
+<br><br>
 
 # **UNIVERSITAS ESA UNGGUL**
 #### **2023**
