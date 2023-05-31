@@ -80,7 +80,7 @@ Itulah kenapa enterprise arsitektur perlu dipelajari agar solusi dari masalah te
 - Proses Bisnis
 suatu kumpulan aktivitas atau pekerjaan terstruktur yang saling terkait untuk menyelesaikan suatu masalah tertentu atau yang menghasilkan produk atau layanan
 - Data dan Informasi
-data adalah segala sesuatu yang disimpan di dalam memori menurut format tertentu. Informasi adalah hasil pengolahan data yang sudah dapat diterima oleh akal pikiran penerima informasi yang nantinya dapat digunakan untuk pengambilan keputusan```
+data adalah segala sesuatu yang disimpan di dalam memori menurut format tertentu. Informasi adalah hasil pengolahan data yang sudah dapat diterima oleh akal pikiran penerima informasi yang nantinya dapat digunakan untuk pengambilan keputusan
 - Aplikasi
 Aplikasi adalah perangkat lunak komputer yang memanfaatkan kemampuan komputer langsung untuk melakukan suatu tugas yang diinginkan pengguna
 - Teknologi
