@@ -1,6 +1,4 @@
 # **Rencana Pembelajaran Semester**
-<br><br>
-
 ## **Enterprise Architecture**
 - Sebuah evaluasi dan menggambarkan aspek manusia, proses, dan sumber daya dalam suatu organisasi.
 <br><br>
