@@ -5,9 +5,6 @@
 
 ## **Tujuan Belajar**
 - Mata kuliah ini bertujuan agar mahasiswa mampu mendefinisikan keseluruhan bentuk dan fungsi serta IT untuk merancang dan mengembangkan sistem yang dapat menjadi standar panduan dalam perancangan dan pengembangan sistem IT tersebut dalam sebuah perusahaan/instansi agar sesuai dengan bisnis yang dijalankan
-<br><br>
-
-## **Capaian Pembelajaran**
 - Mahasiswa mampu merancang, menerapkan, dan mengelola solusi teknologi informasi di sebuah perusahaan/enterprise/pemerintahan dengan berfokus pada proses bisnis, data dan informasi, aplikasi, infrastruktur serta audit TIK  menggunakan framework enterprise arsitektur yang mendukung bisnis
 perusahaan/enterprise/pemerintahan
 <br><br>
